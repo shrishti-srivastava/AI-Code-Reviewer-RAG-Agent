@@ -1,0 +1,29 @@
+Python Indentation Rule:
+Python uses indentation to define code blocks. Always use proper spaces inside if, for, while, function, and class blocks.
+
+Variable Naming Rule:
+Use meaningful variable names. Avoid names like a, b, x, temp unless they are really simple and clear.
+
+Common Syntax Mistakes:
+Check missing colons after if, for, while, def, and class statements. Also check missing brackets, quotes, and commas.
+
+Comments Usage:
+Use comments to explain important logic. Do not write too many unnecessary comments.
+
+Function Usage:
+Use functions when the same code is repeated multiple times. Functions make code clean and reusable.
+
+PEP8 Basic Rule:
+Write clean Python code using proper spacing, lowercase variable names, and readable formatting.
+
+Clean Code Tip:
+Keep code simple and easy to understand. Avoid writing very long lines and unnecessary complex logic.
+
+Input Validation:
+Check user input before using it. This helps avoid errors during program execution.
+
+Error Handling:
+Use try-except only when needed. It helps handle runtime errors safely.
+
+Print Statements:
+Use clear print messages so the output is easy to understand.
